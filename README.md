@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @soumyajitsamanta
-- 👀 I’m interested in Java and Angular.
-- 🌱 I’m currently learning to use VueJS.
+- 👀 I’m software developer working with Java and Angular.
+- 🌱 I’m currently learning to use VueJS and React.
 - 💞️ I’m looking to collaborate on simple open source project.
-- 📫 How to reach me soumyajit.samanta on instagram and @soumyajitsaman1 on twitter.
+- 📫 How to reach me:
+  - Linked In: [Soumyajit Samanta](https://www.linkedin.com/in/soumyajit-samanta-63ab46103/)
+  - Twitter: [@soumyajitsaman1](https://twitter.com/SoumyajitSaman1)
 
 <!---
 soumyajitsamanta/soumyajitsamanta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
