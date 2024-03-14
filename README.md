@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @soumyajitsamanta
-- 👀 I’m software developer working with Java and Angular.
-- 🌱 I’m currently learning to use VueJS and React.
+- 👀 I’m software developer working with Java, VueJS, React and Angular.
+- 🌱 I’m making few small projects like [Data Analysis R](https://github.com/soumyajitsamanta/data-analysis-r).
 - 💞️ I’m looking to collaborate on simple open source project.
 - 📫 How to reach me:
   - Linked In: [Soumyajit Samanta](https://www.linkedin.com/in/soumyajit-samanta-63ab46103/)
